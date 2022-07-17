@@ -19,3 +19,5 @@ String比较还是用equals
 
 String.valueOf(47291)
 Integer.parseInt("47291")
+
+Arrays.equals(cnt1, cnt2)
