@@ -1,3 +1,10 @@
+/*
+https://leetcode.cn/problems/implement-strstr/solution/shua-chuan-lc-shuang-bai-po-su-jie-fa-km-tb86/
+28. 实现 strStr()
+经典简单题：KMP
+*/
+
+
 class Solution {
     public static int strStr(String haystack, String needle) {
         int n = haystack.length(), m = needle.length();
