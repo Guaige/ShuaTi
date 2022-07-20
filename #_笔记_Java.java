@@ -33,3 +33,5 @@ Arrays.sort(t,(a,b)->{
 
 //字典序排序String
 String.compareTo
+//join
+String.join(".", path)
